@@ -1,6 +1,6 @@
 # i3wm
 config files
 
-##Dependencies
+## Dependencies
 * dmenu
 * i3lock
